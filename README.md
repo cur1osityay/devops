@@ -1,4 +1,5 @@
-# devops-ssit-ht1
+# DevOps Crash Course
+Ihor Mytlushko
 
 List of hometasks 
 - [x] HT1 (NoviNano)
