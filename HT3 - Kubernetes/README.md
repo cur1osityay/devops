@@ -1,4 +1,4 @@
-Deploying steps
+Deploying steps (-----WORK IN PROGRESS----)
 -------
 1. Creating Dockerfile with starting up an html page
 2. Image push to Dockerhub
