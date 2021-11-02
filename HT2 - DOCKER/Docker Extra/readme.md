@@ -1,3 +1,3 @@
 
-Creating static html deployment
+Creating static html deployment (for kubernetes)
 --------
