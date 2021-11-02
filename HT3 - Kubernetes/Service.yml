@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+ name: html-service
+ labels:
+   env: dev
+   name: html-service
+spec:
+  selector:
+    app: dockapp
+  ports:
+    - port: 8008
+      protocol: TCP
+      targetPort: 80

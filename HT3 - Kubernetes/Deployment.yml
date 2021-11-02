@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+ name: html-deployment
+ labels:
+   env: dev
+   name: html-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+     app: dockapp
+  template:
+    metadata:
+     labels:
+       app: dockapp
+    spec:
+     containers:
+     - name: htmlapp
+       image: cur1osityay/hometask3
+       ports:
+       - containerPort: 80
