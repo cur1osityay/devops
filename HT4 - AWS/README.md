@@ -4,7 +4,7 @@ AWS
 2. Created EC2 instance
 ![image](https://user-images.githubusercontent.com/61839115/139860296-7a0671a5-7de1-4b33-9ff0-e4f1f7ccb3b2.png)
 
-3. Went to public IP-adress
+3. Public IPv4-address demonstration
 ![image](https://user-images.githubusercontent.com/61839115/139860479-b08f7839-9a35-4825-97b5-d13afd3df424.png)
 
 4. Customized webpage
