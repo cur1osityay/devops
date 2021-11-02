@@ -1,4 +1,4 @@
-AWS
+AWS WORDPRESS DEPLOYMENT
 -------------
 1. Created free-tier account
 2. Created EC2 instance
