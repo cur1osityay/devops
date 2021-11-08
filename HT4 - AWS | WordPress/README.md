@@ -4,7 +4,7 @@
 ----
 |Autoscaling|VPC|DB Backup|DB restore|Instance Restore|
 | --------- | --- | ----- | ------- | ------- |
-| 0% | 0% | 0% | 0% | 0% |
+| In progress | In progress | In progress | In progress | In progress |
 
 
 •• AWS WORDPRESS DEPLOYMENT
