@@ -20,3 +20,5 @@
 •• AUTOSCALING
 --------------------
 1. 
+|Autoscaling|VPC|DB Backup|DB restore|Instance Restore|
+|------|-----|
