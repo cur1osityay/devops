@@ -1,6 +1,7 @@
 - [x] - WordPress Deployment
 - [ ] - Autoscaling EC2
 - [ ] - VPC
+----
 |Autoscaling|VPC|DB Backup|DB restore|Instance Restore|
 | --------- | --- | ----- | ------- | ------- |
 | 0% | 0% | 0% | 0% | 0% |
