@@ -1,5 +1,5 @@
 - [x] - WordPress Deployment
-- [ ] - Autoscaling
+- [ ] - Autoscaling EC2
 - [ ] - VPC
 
 
