@@ -1,4 +1,4 @@
-- [x] - WordPress Deplotment
+- [x] - WordPress Deployment
 - [ ] - Autoscaling
 - [ ] - 
 
