@@ -1,3 +1,8 @@
+[x] - WordPress Deplotment
+[ ] - Autoscaling
+[ ] - 
+
+
 AWS WORDPRESS DEPLOYMENT
 -------------
 1. Created free-tier account
