@@ -24,4 +24,4 @@
 •• AUTOSCALING
 --------------------
 1. 
-![50%](https://progress-bar.dev/50)
+![99%](https://progress-bar.dev/100)
