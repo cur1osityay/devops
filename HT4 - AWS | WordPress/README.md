@@ -1,6 +1,6 @@
-[x] - WordPress Deplotment
-[ ] - Autoscaling
-[ ] - 
+- [x] - WordPress Deplotment
+- [ ] - Autoscaling
+- [ ] - 
 
 
 AWS WORDPRESS DEPLOYMENT
