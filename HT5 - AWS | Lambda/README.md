@@ -2,7 +2,7 @@
 
 2. Created S3 bucket for static website hosting
 3. Upload picture and copy link to html
-4. Hosting error.html and index.html
+4. Hosted error.html and index.html
 ![image](https://user-images.githubusercontent.com/61839115/140761904-d7525dec-117b-44be-a4fa-671d654a32ea.png)
 5. Result
 -----------
