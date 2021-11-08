@@ -24,4 +24,3 @@
 •• AUTOSCALING
 --------------------
 1. 
-![99%](https://progress-bar.dev/99)
