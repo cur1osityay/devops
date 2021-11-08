@@ -1,6 +1,4 @@
-link: [Go to Heading section] (#-this-is-a-heading)
-heading: # This is a heading
--------
+
 |Autoscaling|VPC|DB Backup|DB restore|Instance Restore|
 | --------- | --- | ----- | ------- | ------- |
 | In progress | In progress | In progress | In progress | In progress |
@@ -20,6 +18,6 @@ heading: # This is a heading
 
 5. Instance termination
 -----------------------
-•• #AUTOSCALING
+•• AUTOSCALING
 --------------------
 1. 
