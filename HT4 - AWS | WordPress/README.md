@@ -1,5 +1,5 @@
 
-|WordPress||Autoscaling|VPC|DB Backup|DB restore|Instance Restore|
+|WordPress|Autoscaling|VPC|DB Backup|DB restore|Instance Restore|
 | --- | --------- | --- | ----- | ------- | ------- |
 |🟢| 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 
