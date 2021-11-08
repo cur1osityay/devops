@@ -16,3 +16,6 @@ AWS WORDPRESS DEPLOYMENT
 ![image](https://user-images.githubusercontent.com/61839115/139860577-8df0ed1e-b835-41e6-b370-a39481c38d37.png)
 
 5. Instance termination
+
+AUTOSCALING
+---------------------
