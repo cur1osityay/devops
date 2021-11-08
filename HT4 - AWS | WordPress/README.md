@@ -1,6 +1,6 @@
 - [x] - WordPress Deployment
 - [ ] - Autoscaling
-- [ ] - 
+- [ ] - VPC
 
 
 •• AWS WORDPRESS DEPLOYMENT
@@ -19,3 +19,4 @@
 -----------------------
 •• AUTOSCALING
 --------------------
+1. 
