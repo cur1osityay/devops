@@ -3,7 +3,7 @@
 - [ ] - 
 
 
-AWS WORDPRESS DEPLOYMENT
+•• AWS WORDPRESS DEPLOYMENT
 -------------
 1. Created free-tier account
 2. Created EC2 instance
@@ -17,5 +17,5 @@ AWS WORDPRESS DEPLOYMENT
 
 5. Instance termination
 -----------------------
-AUTOSCALING
----------------------
+•• AUTOSCALING
+--------------------
