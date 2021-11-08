@@ -1,0 +1,23 @@
+<html>
+<script>
+
+function myFunction() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+        document.getElementById("my-demo").innerHTML = this.responseText;
+        }
+    };
+    xhttp.open("GET", "https://0kbzjc1mki.execute-api.us-east-2.amazonaws.com/default/igmyt_func", true);
+    xhttp.send();
+
+}
+
+</script>
+<body><div align="center"><br><br><br><br>
+<h1><span id="my-demo">Hometask 5</span></h1>
+<button onclick="myFunction()" style="color:white; background: rgb(84, 105, 129); border-radius: 10px; margin-bottom: 20px; width: 80px; height: 30px;">Click me</button><br>
+<hr>
+<img src="https://igmyt-f-html.s3.us-east-2.amazonaws.com/cikkten.jpg" width="500px" height="400px" style="margin-top: 20px;"></div>
+</body>
+</html>
