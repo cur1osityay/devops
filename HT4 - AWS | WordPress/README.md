@@ -1,9 +1,11 @@
-
+link: [Go to Heading section] (#-this-is-a-heading)
+heading: # This is a heading
+-------
 |Autoscaling|VPC|DB Backup|DB restore|Instance Restore|
 | --------- | --- | ----- | ------- | ------- |
 | In progress | In progress | In progress | In progress | In progress |
 
-
+--------
 •• AWS WORDPRESS DEPLOYMENT
 -------------
 1. Created free-tier account
