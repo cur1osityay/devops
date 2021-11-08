@@ -18,6 +18,6 @@
 
 5. Instance termination
 -----------------------
-•• №AUTOSCALING
+•• #AUTOSCALING
 --------------------
 1. 
