@@ -8,15 +8,16 @@
 -------------
 1. Created free-tier account
 2. Created EC2 instance
-![image](https://user-images.githubusercontent.com/61839115/139860296-7a0671a5-7de1-4b33-9ff0-e4f1f7ccb3b2.png)
-
-3. WordPress' homepage via created IP
-![image](https://user-images.githubusercontent.com/61839115/139860479-b08f7839-9a35-4825-97b5-d13afd3df424.png)
-
 4. Customized webpage
-![image](https://user-images.githubusercontent.com/61839115/139860577-8df0ed1e-b835-41e6-b370-a39481c38d37.png)
+![image](https://user-images.githubusercontent.com/61839115/140954059-0b7603e0-d481-406e-bb3d-49165c7d69fb.png)
+![image](https://user-images.githubusercontent.com/61839115/140954130-aec5772d-eb82-44e7-b530-27c43fe447f4.png)
 
-5. Instance termination
+5. DB snapshots
+![image](https://user-images.githubusercontent.com/61839115/140954213-b3e2ea01-396a-484d-9673-ddb3f7cd37ca.png)
+
+6. DB (restored)
+![image](https://user-images.githubusercontent.com/61839115/140954287-f3a1a185-88b1-4174-879a-09aed7cb0537.png)
+
 -----------------------
 •• AUTOSCALING
 --------------------
