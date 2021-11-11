@@ -2,7 +2,7 @@
 
 - [x] - WordPress
 - [ ] - Autoscaling
-- [ ] - VPC
+- [x] - VPC
 - [x] - DB Backup
 - [x] - DB Restore
 - [ ] - Instance Restore
@@ -26,3 +26,9 @@
 •• AUTOSCALING
 --------------------
 1. 
+-----------------------
+•• VPC
+-----------------------
+![image](https://user-images.githubusercontent.com/61839115/141308937-994aaee8-051f-4cdd-aba8-5c5de4c13be2.png)
+![image](https://user-images.githubusercontent.com/61839115/141308957-640da51a-8c4d-4674-ab7f-39a0cf23a590.png)
+VPC with public and private subnets and each in two different availability zones
