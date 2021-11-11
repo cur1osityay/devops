@@ -1,7 +1,11 @@
 
-|WordPress|Autoscaling|VPC|DB Backup|DB Restore|Instance Restore|
-| --- | --------- | --- | ----- | ------- | ------- |
-|Done ☑️|In progress|In progress|Done ☑️|Done ☑️|In progress|
+
+- [x] - WordPress
+- [ ] - Autoscaling
+- [ ] - VPC
+- [x] - DB Backup
+- [x] - DB Restore
+- [ ] - Instance Restore
 
 --------
 •• AWS WORDPRESS DEPLOYMENT
