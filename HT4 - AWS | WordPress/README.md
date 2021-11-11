@@ -25,11 +25,12 @@
 -----------------------
 •• AUTOSCALING
 --------------------
+Created autoscaling group
 ![image](https://user-images.githubusercontent.com/61839115/141311570-b8a8883e-9f65-41a0-a838-12052c7e5099.png)
-
 -----------------------
 •• VPC
 -----------------------
+VPC with public and private subnets and each in two different availability zones
 ![image](https://user-images.githubusercontent.com/61839115/141308937-994aaee8-051f-4cdd-aba8-5c5de4c13be2.png)
 ![image](https://user-images.githubusercontent.com/61839115/141308957-640da51a-8c4d-4674-ab7f-39a0cf23a590.png)
-VPC with public and private subnets and each in two different availability zones
+
