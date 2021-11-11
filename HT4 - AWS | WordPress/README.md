@@ -16,6 +16,8 @@
 ![image](https://user-images.githubusercontent.com/61839115/140954059-0b7603e0-d481-406e-bb3d-49165c7d69fb.png)
 ![image](https://user-images.githubusercontent.com/61839115/140954130-aec5772d-eb82-44e7-b530-27c43fe447f4.png)
 
+Sent all data (var/www/html) to s3 bucket as a backup using aws plugin
+
 5. DB snapshots
 ![image](https://user-images.githubusercontent.com/61839115/140954213-b3e2ea01-396a-484d-9673-ddb3f7cd37ca.png)
 
