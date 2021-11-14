@@ -1,5 +1,5 @@
 - [x] - CloudFormation | Infrastructure automation
-- [ ] - EC2 with Terraform
+- [x] - EC2 with Terraform
 - [ ] - VPC with Terraform
 -------------------------
 1. CloudFormation for automated infrastructure 
