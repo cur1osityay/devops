@@ -1,7 +1,7 @@
 - [x] - CloudFormation | Infrastructure automation
 - [x] - EC2 with Terraform
 - [x] - VPC with Terraform
-- [ ] - RDS with Terraform
+- [x] - RDS with Terraform
 -------------------------
 1. CloudFormation for automated infrastructure 
 ![image](https://user-images.githubusercontent.com/61839115/141657041-f65f87e9-26a6-4be4-9c61-41d57be8d26b.png)
@@ -21,3 +21,6 @@
 
 ------------------------------------
 4. RDS with Terraform
+
+![Screenshot from 2021-11-14 19-14-07](https://user-images.githubusercontent.com/61839115/141691302-8d7f35ab-3ba3-410f-a087-6653379422ad.png)
+![Screenshot from 2021-11-14 19-14-28](https://user-images.githubusercontent.com/61839115/141691303-ab3c2926-39b8-48fb-abd6-aeefa16a40fd.png)
