@@ -9,4 +9,6 @@ List of hometasks
 - [x] <a href="https://github.com/cur1osityay/devops-ssit-cc/tree/main/HT5%20-%20AWS%20%7C%20Lambda">HT5</a> (AWS | Lambda) 
 - [x] <a href="https://github.com/cur1osityay/devops-ssit-cc/tree/main/HT6%20-%20Terraform">HT6</a> (Terraform)
 - [ ] HT7 (GitLab | Jenkins)
+- [ ] HT8
+- [ ] HT9
 
